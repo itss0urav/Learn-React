@@ -1,4 +1,4 @@
-## **Chapter 3*****
+# Chapter 3
 
 - Learn React Router: React Router is a library that allows you to add routing to your React application. Routing enables you to create multiple pages in your application and navigate between them. React Router is essential for building larger applications with multiple views.
 

@@ -1,4 +1,4 @@
-## **Chapter 2******
+# Chapter 2
 
 - Learn React Hooks: React Hooks is a new feature introduced in React 16.8 that allows you to use state and other React features without writing a class component. Hooks provide a simpler way to manage state and lifecycle methods. Understanding React Hooks is important to make your React components more concise and efficient.
 
